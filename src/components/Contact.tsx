@@ -32,7 +32,7 @@ const Contact = () => {
     e.preventDefault();
     setIsSubmitting(true);
     try {
-          const resp = fetch("https://api-portfolio-taupe.vercel.app/submit-form", {
+          const resp = fetch("https://api-portfolio-taupe.vercel.app//submit-form", {
             method: "POST",
             headers: {
               "Content-Type": "application/JSON",
