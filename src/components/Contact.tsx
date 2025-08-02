@@ -35,7 +35,7 @@ const Contact = () => {
           const resp = fetch("https://api-portfolio-taupe.vercel.app//submit-form", {
             method: "POST",
             headers: {
-              "Content-Type": "application/JSON",
+              "Content-Type": "application/json",
             },
             body: JSON.stringify(formData),
           }).then((response) => {
