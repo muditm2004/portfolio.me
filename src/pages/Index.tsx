@@ -15,7 +15,7 @@ const Index = () => {
     {
       id: '0',
       title: 'Product Management Trainee',
-      organization: 'Traevelxp',
+      organization: 'TravelXP',
       startDate: 'Jul 2025',
       endDate: 'Sep 2025',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1759993739/9d1c6c139561a69e7edf5396275ddb63_gk2wtv.jpg',
