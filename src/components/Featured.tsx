@@ -18,6 +18,14 @@ const Featured = () => {
 
   const featuredItems: FeaturedItem[] = [
     {
+      id: '0',
+      title: 'Experience Letter from Travelxp',
+      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1764073375/MuditMehta-RelievingLetter_page-0002_jrhhl3.jpg',
+      href: '',
+      description: '(Click on the image to see full LoR)',
+      caption: 'Letter'
+    },
+    {
       id: '1',
       title: 'Recommendation from Last Internshpip',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1745645811/LoR_FInsol3_q9ijeb.jpg',
