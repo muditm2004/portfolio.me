@@ -18,12 +18,20 @@ const Featured = () => {
 
   const featuredItems: FeaturedItem[] = [
     {
-      id: '0',
-      title: 'Experience Letter from Travelxp',
-      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1764073375/MuditMehta-RelievingLetter_page-0002_jrhhl3.jpg',
+      id: '-1',
+      title: 'Work done for Scrivano (Florida, United States)',
+      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1765395775/Scrivano_s4ftzm.png',
       href: '',
-      description: '(Click on the image to see full LoR)',
-      caption: 'Letter'
+      description: '(Click on the image to view)',
+      caption: 'Freelance Project Glimpse'
+    },
+    {
+      id: '0',
+      title: 'Work done for Petrone Associates (NY, United States)',
+      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1765395734/PetroneAdmin_k1a2xs.png',
+      href: '',
+      description: '(Click on the image to view)',
+      caption: 'Freelance Project Glimpse'
     },
     {
       id: '1',
