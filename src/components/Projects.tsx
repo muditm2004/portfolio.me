@@ -32,7 +32,7 @@ const Projects = () => {
     {
       id: '2.5',
       title: 'LMS For Petrone Associates (NY, USA)',
-      description: 'Led product management for the project of an international freelance client, Petrone Associates, a healthcare compliance company. I gathered requirements and prioritized features for a web-based LMS built with Anvil. Oversaw secure user authentication, role-based administration, course and test workflows, and structured navigation, ensuring an efficient and intuitive learning experience.',
+      description: 'Led product management for the project of an international freelance client, Petrone Associates, a healthcare compliance company. I gathered requirements and prioritized features for a web-based LMS built with Anvil.',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1765395734/PetroneAdmin_k1a2xs.png',
       technologies: ['Product Thinking', 'Prioritization', 'Stakeholder Management', 'Programming'],
       demoUrl: '',
