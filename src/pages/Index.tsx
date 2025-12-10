@@ -26,7 +26,7 @@ const Index = () => {
       title: 'Internal Product Management Intern',
       organization: 'Finsol',
       startDate: 'Dec 2024',
-      endDate: 'May 2024',
+      endDate: 'May 2025',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1745739875/finlogo_qwyoyu.png',
       description: 'Led the creation of 2 tools, one of which reduced the 2-day work to 15 minutes, and another streamlined the client lifecycle, ultimately enhancing the efficiency and productivity.'
     },
@@ -37,12 +37,21 @@ const Index = () => {
       startDate: 'Oct 2023',
       endDate: 'Present',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1737734798/medium-round-icon_htbsml.webp',
-      description: 'Writing around Product, Business, Tech and UX. Got first publication in just 2nd article.'
+      description: 'Writing around Product, Business, Tech and UX. Got the first publication in just 2nd article.'
+    },
+    {
+      id: '2.5',
+      title: 'Freelance Product Manager & Developer',
+      organization: 'Self-Employed',
+      startDate: 'July 2024',
+      endDate: 'Jan 2025',
+      logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1754074270/9196055_pr6b4j.png',
+      description: 'Worked with international clients on an LMS and an AI note-generation app, gaining hands-on product management experience in defining requirements & coordinating delivery.'
     },
     {
       id: '3',
-      title: 'Design Coordinator',
-      organization: 'CodeHub- Competitive Programming Club of JKLU',
+      title: 'Design Coordinator (University Club)',
+      organization: 'CodeHub-Programming Club of JKLU',
       startDate: 'Oct 2023',
       endDate: 'Sep 2024',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1737730270/codehub_ypxnq7.png',
