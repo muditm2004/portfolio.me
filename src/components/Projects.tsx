@@ -30,9 +30,26 @@ const Projects = () => {
       demoUrl: 'https://medium.com/@mudit.mehtaa/geeke-a-social-media-for-book-lovers-c1766828e537',
     },
     {
+      id: '2.5',
+      title: 'LMS For Petrone Associates (NY, USA)',
+      description: 'Led product management for the project of an international freelance client, Petrone Associates, a healthcare compliance company. I gathered requirements and prioritized features for a web-based LMS built with Anvil. Oversaw secure user authentication, role-based administration, course and test workflows, and structured navigation, ensuring an efficient and intuitive learning experience.',
+      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1765395734/PetroneAdmin_k1a2xs.png',
+      technologies: ['Product Thinking', 'Prioritization', 'Stakeholder Management', 'Programming'],
+      demoUrl: '',
+    },
+    {
+      id: '2.6',
+      title: 'Scrivano (Florida, USA)',
+      description: 'Managed an AI-powered note generation app for an international client. Coordinated requirements, did market research, prioritized features, and collaborated for smooth delivery',
+      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1765395775/Scrivano_s4ftzm.png',
+      technologies: ['Product Thinking', 'Prioritization', 'Market Research', 'Stakeholder Management', 'Programming'],
+      demoUrl: '',
+    },
+    
+    {
       id: '3',
       title: 'Internship Project - Bank Statement Merger & Analyzer',
-      description: 'Case Study on Internship Project that enhanced the efficienty and reduced time',
+      description: 'Case Study on Internship Project that enhanced the efficiency and reduced time',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1745741968/FInProject_yszc99.png',
       technologies: ['Problem Solving', 'Prioritization', 'Product Roadmapping', 'Stakeholder Management', 'Python programming'],
       demoUrl: 'https://medium.com/@mudit.mehtaa/internship-project-bank-statement-merger-analyzer-791f9d072bcc',
