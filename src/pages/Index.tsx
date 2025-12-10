@@ -19,7 +19,7 @@ const Index = () => {
       startDate: 'Jul 2025',
       endDate: 'Oct 2025',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1759993739/9d1c6c139561a69e7edf5396275ddb63_gk2wtv.jpg',
-      description: 'Enhanced Travelxp’s internal CMS and platform stability by coordinating with developers and internal teams, while defining product specs and PRDs to drive feature delivery and improve content workflows.'
+      description: 'Enhanced Travelxp’s internal CMS and platform stability by coordinating with developers and internal teams, while defining product specs and PRDs to drive feature delivery on website and app.'
     },
     {
       id: '1',
