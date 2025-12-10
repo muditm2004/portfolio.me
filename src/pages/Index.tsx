@@ -31,6 +31,15 @@ const Index = () => {
       description: 'Led the creation of 2 tools, one of which reduced the 2-day work to 15 minutes, and another streamlined the client lifecycle, ultimately enhancing the efficiency and productivity.'
     },
     {
+      id: '2.5',
+      title: 'Freelance Product Manager & Developer',
+      organization: 'Self-Employed',
+      startDate: 'Oct 2024',
+      endDate: 'Apr 2025',
+      logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1754074270/9196055_pr6b4j.png',
+      description: 'Worked with international clients on an LMS and an AI note-generation app, gaining hands-on product management experience in understanding user, defining requirements & coordinating delivery.'
+    },
+    {
       id: '2',
       title: 'Writer',
       organization: 'Medium',
@@ -38,15 +47,6 @@ const Index = () => {
       endDate: 'Present',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1737734798/medium-round-icon_htbsml.webp',
       description: 'Writing around Product, Business, Tech and UX. Got the first publication in just 2nd article.'
-    },
-    {
-      id: '2.5',
-      title: 'Freelance Product Manager & Developer',
-      organization: 'Self-Employed',
-      startDate: 'July 2024',
-      endDate: 'Jan 2025',
-      logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1754074270/9196055_pr6b4j.png',
-      description: 'Worked with international clients on an LMS and an AI note-generation app, gaining hands-on product management experience in understanding user, defining requirements & coordinating delivery.'
     },
     {
       id: '3',
