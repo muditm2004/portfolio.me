@@ -34,8 +34,8 @@ const Index = () => {
       id: '2.5',
       title: 'Freelance Product Manager & Developer',
       organization: 'Self-Employed',
-      startDate: 'Oct 2024',
-      endDate: 'Apr 2025',
+      startDate: 'July 2024',
+      endDate: 'Jan 2025',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1754074270/9196055_pr6b4j.png',
       description: 'Worked with international clients on an LMS and an AI note-generation app, gaining hands-on product management experience in understanding user, defining requirements & coordinating delivery.'
     },
