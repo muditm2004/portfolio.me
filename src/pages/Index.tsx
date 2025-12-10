@@ -23,7 +23,7 @@ const Index = () => {
     },
     {
       id: '1',
-      title: 'Internal Product Management Intern',
+      title: 'Product Management Intern',
       organization: 'Finsol',
       startDate: 'Dec 2024',
       endDate: 'May 2025',
