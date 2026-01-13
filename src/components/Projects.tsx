@@ -32,7 +32,7 @@ const Projects = () => {
     {
        id: '2.01',
       title: 'Camvas – AI-Powered Gesture Drawing Tool',
-      description: 'Co-created Camvas, an AI-powered, webcam-based drawing tool that turns natural hand gestures into real-time annotations for virtual meetings. Conducted market research identifying a growing need for intuitive remote collaboration tools and leveraged AI for shape correction, enabling seamless idea-sharing without a mouse or pen.',
+      description: 'Co-created **Camvas**, an AI-powered, webcam-based drawing tool that turns **natural hand gestures into real-time annotations for virtual meetings**. Conducted market research identifying a growing need for intuitive remote collaboration tools and leveraged AI for shape correction, enabling seamless idea-sharing without a mouse or pen.',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1768285595/1747130678420_rcfy9w.jpg',
       technologies: ['Product Thinking', 'Market Analysis', 'Feature Prioritization', 'User Research'],
       demoUrl: 'https://www.linkedin.com/posts/muditmehtaa_announcement-ai-productthinking-activity-7327997201886969856-PAJ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBcUlEBNNo8wmbn2jlsdhe3PY1Ibs0K7Jg',
@@ -40,7 +40,7 @@ const Projects = () => {
     {
       id: '2.1',
       title: 'IoT-Based Gesture & Voice-Controlled Car',
-      description: 'Led the development of a gesture and voice-controlled car, coordinating a cross-functional team while managing project timelines and technical implementation. Developed a web app with Anvil to process commands, integrated with NodeMCU and Arduino NANO for real-time car control, overcoming hardware and software challenges to deliver a functional prototype',
+      description: 'Led the development of a **gesture and voice-controlled car**, coordinating a cross-functional team while managing project timelines and technical implementation. Developed a web app with **Anvil** to process commands, integrated with **NodeMCU** and **Arduino NANO** for real-time car control, overcoming hardware and software challenges to deliver a functional prototype',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1736686934/Car_xbztut.png',
       technologies: ['Product Management', 'Technical Implementation', 'Team Coordination', 'Problem Solving', 'Prototyping'],
       demoUrl: 'https://www.linkedin.com/posts/muditmehtaa_hands-on-learning-learning-just-from-books-activity-7170078776708591616-Ullc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBcUlEBNNo8wmbn2jlsdhe3PY1Ibs0K7Jg',
@@ -48,7 +48,7 @@ const Projects = () => {
     {
       id: '2.2',
       title: 'Tabletop Manager for Content Creators',
-      description: 'Led the design and development of the Tabletop Manager, a multifunctional desk organizer solving workspace clutter and organization issues for content creators. Applied design thinking, created a 3D-printed prototype, and incorporated features like cable management, device holders, headphone stand, and pen organizer. Translated user insights into a tangible, practical product.',
+      description: 'Led the design and development of the **Tabletop Manager**, a multifunctional desk organizer solving workspace clutter and organization issues for content creators. Applied **design thinking**, created a **3D-printed prototype**, and incorporated features like cable management, device holders, headphone stand, and pen organizer. Translated user insights into a tangible, practical product.',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1736699228/18a18901-25a5-48f0-8a7f-e049ecb41f3e.png',
       technologies: ['User-Centered Design', 'Design Thinking', 'Team Coordination', 'Problem Solving', 'Prototyping'],
       demoUrl: 'https://www.linkedin.com/posts/muditmehtaa_table-top-manager-activity-7238539075916308480-yUmk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBcUlEBNNo8wmbn2jlsdhe3PY1Ibs0K7Jg',
@@ -56,7 +56,7 @@ const Projects = () => {
     {
       id: '2.3',
       title: 'Forest Fury (3D Game)',
-      description: 'Worked and led the technical team in developing “Forest Fury”, a 3D adventure game in Unreal Engine 5, where players battle creatures to rescue a captured goddess. Managed aspects of game design, workflow, and team coordination, creating an immersive experience while ensuring the project stayed on track and delivered a functional, engaging gameplay demo.',
+      description: 'Worked and led the technical team in developing **“Forest Fury”**, a 3D adventure game in **Unreal Engine 5**, where players battle creatures to rescue a captured goddess. Managed aspects of **game design**, **workflow**, and **team coordination**, creating an immersive experience while ensuring the project stayed on track and delivered a functional, engaging gameplay demo.',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1768283208/1713287873201_eviwll.jpg',
       technologies: ['Game Design', 'Design Thinking', 'Team Coordination', 'Technical Execution', 'Interactive Prototyping'],
       demoUrl: 'https://www.linkedin.com/posts/muditmehtaa_gamedevelopment-unrealengine5-teamwork-activity-7186050341791055872-AZ8w?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBcUlEBNNo8wmbn2jlsdhe3PY1Ibs0K7Jg',
@@ -65,7 +65,7 @@ const Projects = () => {
     {
       id: '2.5',
       title: 'LMS For Petrone Associates (NY, USA)',
-      description: 'Led product management for the project of an international freelance client, Petrone Associates, a healthcare compliance company. I gathered requirements and prioritized features for a web-based LMS built with Anvil.',
+      description: 'Led product management for the project of an international freelance client, **Petrone Associates**, a healthcare compliance company. I **gathered requirements and prioritized features for a web-based LMS** built with Anvil.',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1765395734/PetroneAdmin_k1a2xs.png',
       technologies: ['Product Thinking', 'Prioritization', 'Stakeholder Management', 'Programming'],
       demoUrl: '',
@@ -73,7 +73,7 @@ const Projects = () => {
     {
       id: '2.6',
       title: 'Scrivano (Florida, USA)',
-      description: 'Managed an AI-powered note generation app for an international client. Coordinated requirements, did market research, prioritized features, and collaborated for smooth delivery',
+      description: 'Managed an **AI-powered note generation app** for an international client. Coordinated requirements, did market research, prioritized features, and collaborated for smooth delivery',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1765395775/Scrivano_s4ftzm.png',
       technologies: ['Product Thinking', 'Prioritization', 'Market Research', 'Stakeholder Management', 'Programming'],
       demoUrl: '',
@@ -96,6 +96,14 @@ const Projects = () => {
       demoUrl: 'https://medium.com/@mudit.mehtaa/internship-project-client-lifecycle-management-tool-72d8c250cdfd',
     }
   ];
+
+  function renderBoldText(text: string) {
+  const parts = text.split("**"); // Split by ** markers
+  return parts.map((part, index) =>
+    index % 2 === 1 ? <strong key={index}>{part}</strong> : part
+  );
+}
+
 
   return (
     <section id="projects" className="py-32 relative">
@@ -128,7 +136,7 @@ const Projects = () => {
                   {project.title}
                 </h3>
                 <p className="text-muted-foreground mb-6 leading-relaxed">
-                  {project.description}
+                  {renderBoldText(project.description)}
                 </p>
 
                 {/* Technologies */}
