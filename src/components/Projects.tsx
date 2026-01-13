@@ -30,6 +30,14 @@ const Projects = () => {
       demoUrl: 'https://medium.com/@mudit.mehtaa/geeke-a-social-media-for-book-lovers-c1766828e537',
     },
     {
+       id: '2.01',
+      title: 'Camvas – AI-Powered Gesture Drawing Tool',
+      description: 'Co-created Camvas, an AI-powered, webcam-based drawing tool that turns natural hand gestures into real-time annotations for virtual meetings. Conducted market research identifying a growing need for intuitive remote collaboration tools and leveraged AI for shape correction, enabling seamless idea-sharing without a mouse or pen.',
+      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1768285595/1747130678420_rcfy9w.jpg',
+      technologies: ['Product Thinking', 'Market Analysis', 'Feature Prioritization', 'User Research'],
+      demoUrl: 'https://www.linkedin.com/posts/muditmehtaa_announcement-ai-productthinking-activity-7327997201886969856-PAJ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBcUlEBNNo8wmbn2jlsdhe3PY1Ibs0K7Jg',
+    },
+    {
       id: '2.1',
       title: 'IoT-Based Gesture & Voice-Controlled Car',
       description: 'Led the development of a gesture and voice-controlled car, coordinating a cross-functional team while managing project timelines and technical implementation. Developed a web app with Anvil to process commands, integrated with NodeMCU and Arduino NANO for real-time car control, overcoming hardware and software challenges to deliver a functional prototype',
