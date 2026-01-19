@@ -32,12 +32,21 @@ const Index = () => {
     },
     {
       id: '2.5',
-      title: 'Freelance Product Manager & Developer',
+      title: 'Freelancer (Part Time)',
       organization: 'Self-Employed',
       startDate: 'July 2024',
       endDate: 'Jan 2025',
       logo: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1754074270/9196055_pr6b4j.png',
       description: 'Worked with international clients on an LMS and an AI note-generation app, gaining hands-on product management experience in understanding user, defining requirements & coordinating delivery.'
+    },
+    {
+      id: '2.6',
+      title: 'Product Analyst (Part Time)',
+      organization: 'Geeke - Self-Employed',
+      startDate: 'July 2024',
+      endDate: 'Jan 2025',
+      logo: 'https://geeke.app/_/theme/Geeke192x192.jpg',
+      description: 'Worked on a 0→1 product by conducting user research with real users and performing market and competitive analysis to inform product strategy and business model decisions.'
     },
     {
       id: '2',
