@@ -53,14 +53,7 @@ const Projects = () => {
       technologies: ['User-Centered Design', 'Design Thinking', 'Team Coordination', 'Problem Solving', 'Prototyping'],
       demoUrl: 'https://www.linkedin.com/posts/muditmehtaa_table-top-manager-activity-7238539075916308480-yUmk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBcUlEBNNo8wmbn2jlsdhe3PY1Ibs0K7Jg',
     },
-    {
-      id: '2.3',
-      title: 'Forest Fury (3D Game)',
-      description: 'Worked and led the technical team in developing **“Forest Fury”**, a 3D adventure game in **Unreal Engine 5**, where players battle creatures to rescue a captured goddess. Managed aspects of **game design**, **workflow**, and **team coordination**, creating an immersive experience while ensuring the project stayed on track and delivered a functional, engaging gameplay demo.',
-      image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1768283208/1713287873201_eviwll.jpg',
-      technologies: ['Game Design', 'Design Thinking', 'Team Coordination', 'Technical Execution', 'Interactive Prototyping'],
-      demoUrl: 'https://www.linkedin.com/posts/muditmehtaa_gamedevelopment-unrealengine5-teamwork-activity-7186050341791055872-AZ8w?utm_source=share&utm_medium=member_desktop&rcm=ACoAADBcUlEBNNo8wmbn2jlsdhe3PY1Ibs0K7Jg',
-    },
+    
     
     {
       id: '2.5',
