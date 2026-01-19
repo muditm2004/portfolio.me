@@ -16,7 +16,7 @@ const Projects = () => {
     {
       id: '1',
       title: 'How Duolingo Disrupted The market',
-      description: 'A complete case study on Duolingo, the language learning platform.',
+      description: 'A **complete product case study** on Duolingo focused on gamification, competition, and user engagement.',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1748411145/1_sy97slF73nc3V9KQCaUGyQ_dblze2.webp',
       technologies: ['Product Research', 'User Research', 'Market Research'],
       demoUrl: 'https://medium.com/@mudit.mehtaa/how-duolingo-disrupted-the-market-e793c687e326',
