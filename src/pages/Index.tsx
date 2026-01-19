@@ -44,7 +44,7 @@ const Index = () => {
       title: 'Product Analyst (Part Time)',
       organization: 'Geeke - Self-Employed',
       startDate: 'July 2024',
-      endDate: 'Jan 2025',
+      endDate: 'Dec 2024',
       logo: 'https://geeke.app/_/theme/Geeke192x192.jpg',
       description: 'Worked on a 0→1 product by conducting user research with real users and performing market and competitive analysis to inform product strategy and business model decisions.'
     },
