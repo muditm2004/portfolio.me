@@ -24,7 +24,7 @@ const Projects = () => {
     {
       id: '2',
       title: 'Geeke - A Social Media For Book Lovers',
-      description: 'Academic Case Study — Product Strategy, User Research & Business Model Development',
+      description: 'Worked 0→1 on a social media platform by conducting **user research** with active readers and writers to identify key pain points and opportunities. Also, **translated those insights into product requirements** while supporting product strategy through market, competitive, and SWOT analysis. This work informed the Lean Canvas, business model, and overall product direction.',
       image: 'https://res.cloudinary.com/dnakv3uwo/image/upload/v1748411145/GeekeL_rhfmpv.png',
       technologies: ['Product Thinking', 'Market Analysis', 'SWOT & Competitive Analysis', 'User Research', 'User Persona Creation'],
       demoUrl: 'https://medium.com/@mudit.mehtaa/geeke-a-social-media-for-book-lovers-c1766828e537',
